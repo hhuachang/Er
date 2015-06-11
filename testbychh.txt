@@ -1,3 +1,4 @@
 this is just a test
 file
+2nd modified line
 the end line
